@@ -9,6 +9,9 @@ An attacker can use this vulnerability to remotely execute system commands witho
 # Vulnerability Location
 /usr/lib/lua/luci/controller/mtkwifi.lua
 
+# Self-rating
+very critical
+
 # Firmware version
 V1.0.1-B20201211.2000
 
